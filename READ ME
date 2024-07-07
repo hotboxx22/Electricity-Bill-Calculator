@@ -1,0 +1,27 @@
+Electricity Bill Calculator in Java
+
+The Electricity Bill Calculator is a Java-based application designed to help users estimate their monthly electricity consumption and calculate their electricity bills efficiently. This intuitive tool is perfect for both residential and commercial users who want to manage their energy expenses better.
+
+Key Features:
+
+User-Friendly Interface: The application boasts a simple and easy-to-navigate graphical user interface (GUI) that allows users of all technical levels to input their electricity usage details with ease.
+
+Customizable Tariff Rates: Users can input different tariff rates depending on their energy provider, ensuring accurate bill calculations according to the latest rates.
+
+Detailed Usage Input: The calculator allows users to enter detailed information about their electricity usage, including the number of appliances, their power ratings, and the average usage time per day.
+
+Dynamic Calculations: The application dynamically calculates the total energy consumption (in kilowatt-hours) and generates the corresponding bill amount based on the provided tariff rates.
+
+Multiple User Profiles: Users can save multiple profiles, making it easy to switch between different households or business setups without re-entering data each time.
+
+Historical Data Storage: The application can store past usage and billing data, allowing users to track their energy consumption trends over time.
+
+Print and Export Options: Users can print their bill summaries or export the data to popular formats like PDF or Excel for further analysis and record-keeping.
+
+Technical Details:
+
+Programming Language: Java
+Libraries and Frameworks: JavaFX for the graphical user interface, JDBC for database connectivity (if historical data storage is implemented)
+Database: SQLite or MySQL (optional, for storing user profiles and historical data)
+Platform Compatibility: The application is cross-platform and can run on any system with a Java Runtime Environment (JRE) installed, including Windows, macOS, and Linux.
+This Java-based Electricity Bill Calculator is a practical tool for anyone looking to gain better control over their electricity usage and costs, offering flexibility, precision, and ease of use.
